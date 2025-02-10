@@ -1,0 +1,41 @@
+name: "SimulareCNVA_IX"
+description: "Simulare OJI IX - CNVA"
+tasks:
+  - "balaur"
+  - "furnici"
+  - "deminare"
+users:
+  - username: "GeorgePahonie"
+    password: "CatalinFrancu"
+    ip: null  
+  - username: "IngridLazar"
+    password: "DanPracsiu"
+    ip: null  
+  - username: "MateiAndone"
+    password: "SmenulLuiMars"
+    ip: null
+  - username: "TudorSandu"
+    password: "AlgoritmGreedy"
+    ip: null 
+  - username: "StefanCioinac"
+    password: "Backtracking"
+    ip: null
+  - username: "StefanBorsu"
+    password: "Dijkstra"
+    ip: null
+  - username: "LucaGabor"
+    password: "FenwickTree"
+    ip: null
+  - username: "GabrielSandulescu"
+    password: "RadixSort"
+    ip: null
+  - username: "AlessandroDogaru"
+    password: "Recursivitate"
+    ip: null
+  - username: "ClaudiuEnache"
+    password: "Fibonacci"
+    ip: null
+  - username: "AndreiToma"
+    password: "SumePartiale"
+    ip: null
+token_mode: infinite
