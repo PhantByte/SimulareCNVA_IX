@@ -1,9 +1,11 @@
 name: "SimulareCNVA_IX"
 description: "Simulare OJI IX - CNVA"
 tasks:
-  - "balaur"
-  - "furnici"
-  - "deminare"
+  - "amedia"
+  - "arondat"
+  - "bip"
+  - "mostenire"
+  - "defrag"
 users:
   - username: "GeorgePahonie"
     password: "CatalinFrancu"
@@ -38,4 +40,4 @@ users:
   - username: "AndreiToma"
     password: "SumePartiale"
     ip: null
-token_mode: infinite
+token_mode: disabled
