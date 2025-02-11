@@ -1,0 +1,9 @@
+name: "arondat"
+title: "Arondat"
+time_limit: 0.1
+memory_limit: 1
+n_input: 10
+public_testcases: 0, 1, 2, 4, 5, 6, 7, 8, 9
+infile: "arondat.in"
+outfile: "arondat.out"
+token_mode: infinite
