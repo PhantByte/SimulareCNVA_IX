@@ -30,10 +30,10 @@ users:
     password: "RadixSort"
     ip: null
   - username: "AlessandroDogaru"
-    password: "Recursivitate"
+    password: "SparseTable"
     ip: null
   - username: "ClaudiuEnache"
-    password: "Fibonacci"
+    password: "SegmentTree"
     ip: null
   - username: "AndreiToma"
     password: "SumePartiale"
